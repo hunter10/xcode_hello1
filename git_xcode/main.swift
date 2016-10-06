@@ -14,5 +14,7 @@ print("World, WRYYYYYYY!!")
 print("Hello, Earth")
 print("Hello, Luna")
 print("Both accepted")
+print("Hello, GitHub")
 print("Hello, local repository")
+
 
