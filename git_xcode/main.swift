@@ -11,5 +11,6 @@ import Foundation
 print("Hello, World!")
 print("Hello, Miku")
 print("World, WRYYYYYYY!!")
+print("Hello, Earth")
 print("Hello, Luna")
-
+print("Both accepted")
