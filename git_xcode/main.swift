@@ -10,4 +10,6 @@ import Foundation
 
 print("Hello, World!")
 print("Hello, Miku")
+print("World, WRYYYYYYY!!")
+
 
