@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		5A83B82F1DA659BC00A06D9C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 5A83B82E1DA659BC00A06D9C /* README.md */; };
-		5AE8A81C1DA67F8600A95B7E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9D16B81DA6526800F63202 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,7 +25,6 @@
 /* Begin PBXFileReference section */
 		5A83B82E1DA659BC00A06D9C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5A9D16B51DA6526800F63202 /* git_xcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = git_xcode; sourceTree = BUILT_PRODUCTS_DIR; };
-		5A9D16B81DA6526800F63202 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		5A9D16BF1DA655FE00F63202 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,7 +59,6 @@
 		5A9D16B71DA6526800F63202 /* git_xcode */ = {
 			isa = PBXGroup;
 			children = (
-				5A9D16B81DA6526800F63202 /* main.swift */,
 				5A9D16BF1DA655FE00F63202 /* .gitignore */,
 			);
 			path = git_xcode;
@@ -126,7 +123,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5AE8A81C1DA67F8600A95B7E /* main.swift in Sources */,
 				5A83B82F1DA659BC00A06D9C /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
